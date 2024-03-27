@@ -1,4 +1,4 @@
 # Resume
 
-This is my original resume.
-Neha Shrestha
+This is my updated resume.
+
